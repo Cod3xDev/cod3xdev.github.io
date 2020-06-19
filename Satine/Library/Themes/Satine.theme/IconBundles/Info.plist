@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://twitter.com/themekitapp</string>
+	<key>usesFeatures</key>
+	<true/>
+	<key>BundleIdentifier</key>
+	<string>com.mtac.satine</string>
+	<key>DisplayName</key>
+	<string>Satine</string>
+	<key>Author</key>
+	<string>MTAC</string>
+	<key>Version</key>
+	<string>1.0.0</string>
+</dict>
+</plist>

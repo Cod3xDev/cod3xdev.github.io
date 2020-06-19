@@ -1,0 +1,9 @@
+Package: com.cod3x.satine
+Name: Satine
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Converted From  ThemeKit
+Author: Cod3x <cod3xdev@gmail.com>
+Maintainer: Cod3x <cod3xdev@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
